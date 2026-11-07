@@ -1,0 +1,15 @@
+# Build output
+/dist
+/release
+/MixerNet/bin
+/MixerNet/obj
+*.tmp
+
+# Per-machine settings written next to Mixer.exe
+Mixer.json
+
+# Local only: the earlier Rust/Tauri prototype, not part of this project
+/src-tauri
+/ui
+/build-remote.ps1
+/PhaseTest
